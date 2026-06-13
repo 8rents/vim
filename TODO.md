@@ -6,13 +6,13 @@
 
 ## Cue
 
-- [ ] `docs` Document basic commands and customization 
-— [ ] `vimrc` Basic customizations
-- [ ] `git` Push android branch
-- [ ] `git` Make android branch
-- [ ] `git` Make blank branch
+- [ ] `vimrc` Basic customizations
+
 ---
 
 ## Completed
 
-*Nothing Yet...*
+- [x] `git` Push android branch
+- [x] `docs` Document basic commands and customization 
+- [x] `git` Make android branch
+- [x] `git` Make blank branch
