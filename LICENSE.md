@@ -1,0 +1,23 @@
+# MIT License
+
+__Copyright (c) 2026__ [Brenton Holiday](https://brenton.holiday/) __|__  [Email](mailto:8rents@gmail.com) __|__ [GitHub](https://github.com/8rents)
+
+__Permission is__ hereby __granted,__ free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation, __the rights to:__
+ 
+- Use 
+- Copy
+- Modify
+- Merge
+- Publish
+- Distribute
+- Sublicense
+- Sell copies of the Software
+
+*...and* to permit persons to whom the Software is furnished to do so.
+
+## Subject to *the following conditions:*
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. The software is provided __as is__, without warrenty if any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a partkcular purpose and noninfringement.
+3. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, in action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
