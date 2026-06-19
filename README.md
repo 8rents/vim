@@ -1,8 +1,12 @@
-# Vim 
+#. NeoVim (Android Config)
 
 > *My Vim configuration*
 
 ---
+
+## Config File
+
+I've opted for using `init.lua` over `vimrc` for my configs.
 
 ## Documentation
 
